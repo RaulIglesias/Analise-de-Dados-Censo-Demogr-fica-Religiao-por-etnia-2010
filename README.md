@@ -1,1 +1,2 @@
 # Analise-de-Dados-Censo-Demogr-fica-Religiao-por-etnia-2010
+Trabalho feito no curso ADS, 1ºSemestre Turma A, para o professor Fernando Masanori Desenvolvido por Raul Iglesias, Gabriel Machado e Carlos Eduardo Barbosa. Escolhemos o tema para poder termos um conhecimento médio das etnias por religião que predominam no Brasil. O Projeto apresentea o censo de pessoas que participam de vários tipos de religião, como por exemplo, católica Apostólica Romana, Camdomblé, Espírita, Judaísmo, entre outras.
